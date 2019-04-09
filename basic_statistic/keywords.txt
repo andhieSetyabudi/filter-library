@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for Statistic Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+template	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+arrayLength	KEYWORD2
+getSum KEYWORD2
+getAverage KEYWORD2
+getGeoMean KEYWORD2
+copyArrayTo KEYWORD2
+getLowest KEYWORD2
+getHighest KEYWORD2
+bubbleSort KEYWORD2
+getDeviasion KEYWORD2
+getMedian KEYWORD2
+getMode KEYWORD2
+roundF KEYWORD2
+roundF KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################

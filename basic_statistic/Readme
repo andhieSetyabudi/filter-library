@@ -1,0 +1,4 @@
+This library purpose to filtering data-series..
+RecursiveFilter.h -> contain exponential linear filter
+ArrayFilter.h -> contain filter function which need data array, such as Moving average filter, hanning filter and average filter
+Statistic.h -> contain basic function of statistic, such as average, mode, median and etc. Using array function
